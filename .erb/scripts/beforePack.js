@@ -12,7 +12,7 @@ const { exit } = require('process');
 const assetPath = path.join(__dirname, '../..', 'assets');
 
 // YOU CAN EDIT ME
-const JULIA_VERSION_PARTS = [1, 10, 2];
+const JULIA_VERSION_PARTS = [1, 11, 5];
 /// ☝️
 
 const JULIA_VERSION = JULIA_VERSION_PARTS.join('.');
